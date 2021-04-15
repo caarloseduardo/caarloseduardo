@@ -9,10 +9,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
 
-<h2 align="center">Contacts</h2>
+## Contacts
+
 [![https://www.linkedin.com/in/caarloseduardo/](https://img.shields.io/badge/-Carlos%20Eduardo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caarloseduardo/)
 
-[![mailto:carloseduardo.and2@gmail.com](https://img.shields.io/badge/carloseduardo.and2@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:carloseduardo.and2@gmail.com)
+[![mailto:adamaugustinsky@gmail.com](https://img.shields.io/badge/carloseduardo.and2@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:carloseduardo.and2@gmail.com)
 
 <h2 align="center">Stats</h2>
 <p align="center">
