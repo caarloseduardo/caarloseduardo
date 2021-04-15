@@ -1,4 +1,4 @@
-<h1 align="center">Carlos Eduardo</h1>
+## Carlos Eduardo
 
 🎓 I’m currently studying JavaScript and Frameworks
 
@@ -15,8 +15,8 @@
 
 [![mailto:adamaugustinsky@gmail.com](https://img.shields.io/badge/carloseduardo.and2@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:carloseduardo.and2@gmail.com)
 
-<h2 align="center">Stats</h2>
-<p align="center">
+## Stats
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=caarloseduardo&show_icons=true&theme=radical" alt="Stats"/> <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caarloseduardo&theme=radical" alt="Languages"/>
 </p>
