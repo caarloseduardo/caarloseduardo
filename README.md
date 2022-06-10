@@ -7,5 +7,6 @@ Full-stack Developer @Lab2Dev.
 
 I'm a full-stack developer fascinated by learning and always at the next level.
 
-My favorite tools are: ReactJS, TypeScript, Node.js, Express, and Prisma.
+My favorite tools are: ReactJS, TypeScript, Node.js, Express, and Prisma
+
 Currently learning: Next.js
