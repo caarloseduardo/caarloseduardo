@@ -7,6 +7,14 @@ Front-end Developer @LemoneyWay.
 
 I'm a full-stack developer fascinated by learning and always at the next level.
 
-My favorite tools are: React.js, Next.js, TypeScript, Node.js, Express, and Prisma
+My favorite tools are:
 
-Currently learning: Vue.js
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="PostgresSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
+
+Currently learning:
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg.svg" />
