@@ -10,13 +10,15 @@ I'm a full-stack developer fascinated by learning and always at the next level.
 My favorite tools are:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="PostgresSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
+<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
 
 <br /> <br />
 
 Currently learning:
 
-<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
