@@ -1,6 +1,8 @@
 # Carlos Eduardo 
 
-Front-end Developer @lemmoney, Software Engineer student at FIAP.
+Front-end Developer at Lemoney Way.
+
+Software Engineer student at FIAP.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Eduardo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caarloseduardo/)](https://www.linkedin.com/in/caarloseduardo/) 
 [![Gmail Badge](https://img.shields.io/badge/-carloseduardo.and2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardo.and2@gmail.com@gmail.com)](mailto:carloseduardo.and2@gmail.com)
