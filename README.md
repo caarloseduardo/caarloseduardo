@@ -1,11 +1,11 @@
 # Carlos Eduardo 
 
-Full-Stack Developer at Lemoney Way.
+Software Developer at Lemoney Way.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Eduardo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caarloseduardo/)](https://www.linkedin.com/in/caarloseduardo/) 
 [![Gmail Badge](https://img.shields.io/badge/-carloseduardo.and2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardo.and2@gmail.com@gmail.com)](mailto:carloseduardo.and2@gmail.com)
 
-I'm a Full-stack Developer fascinated by learning and always at the next level.
+I'm a software developer with more than 4 years designing and developing software solutions, specializing in front-end solutions. I help tech companies bring their products alive and highly available through my development skills.
 
 My favorite tools are:
 
